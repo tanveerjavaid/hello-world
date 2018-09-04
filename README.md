@@ -1,2 +1,2 @@
 # hello-world
-This is just for understanding and testing the git
+Its me Tanveer Javaid the developer of this project.
